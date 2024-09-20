@@ -1,10 +1,3 @@
-{
-    "$schema": "http://json-schema.org/draft-04/schema",
-    "name": "Country",
-    "properties": {
-        "name": {"type": "string"},
-        "population": {"type": "integer"},
-        "overlord": { "$ref": "person.json#" }
-    },
-    "additionalProperties": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a51b2d75f94b1ce0329c588af51fc9a06c32946ba12c8f7178eb02d44f32cfcb
+size 270
